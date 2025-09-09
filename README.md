@@ -1,6 +1,8 @@
 # logo_ipn
 WPLACE
-coordenadas: 460 910 9 811
+coordenadas logo: 460 910 9 811
+
+coordenadas burrita: 459 910 888 923
 
 script: https://github.com/SwingTheVine/Wplace-BlueMarble/releases
 
